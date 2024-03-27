@@ -1,0 +1,44 @@
+.input{
+    width: 100%;
+    background-color: whitesmoke;
+    height: 10vh;
+    padding: 0.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    input{
+        width: 100%;
+        border: none;
+        outline: none;
+        background-color: transparent;
+        height:80%;
+        font-size: 1.15vw;
+        padding-left: 0.5vw;
+    }
+    .right{
+        display: flex;
+        align-items: center;
+        gap: 1vw;
+        
+        img{
+            width: 3.5vw;
+        }
+        .parth{
+            img{
+                width: 3.5vw;
+                cursor: pointer;
+            }
+        }
+        button{
+            background-color: orangered;
+            color: white;
+            padding: 0.25vw .5vw;
+            border: none;
+            outline: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+    }
+}

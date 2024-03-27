@@ -1,0 +1,29 @@
+.chats{
+    .userchat{
+        padding: 0.25vw 1vw;
+        display: flex;
+        align-items: center;
+        gap: 1vw;
+        margin-top: 0.5vw;
+        transition:  all ease 0.3s;
+        cursor: pointer;
+        width: 100%;
+        &:hover{
+            background-color: red;
+        }
+        img{
+            width: 4vw;
+            height: 4vw;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .userdetails{
+            .username{
+                font-weight: 700;
+            }
+            p{
+                font-size: .85vw;
+            }
+        }
+    }
+}

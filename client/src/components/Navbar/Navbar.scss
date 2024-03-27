@@ -1,0 +1,36 @@
+.navbar{
+    background-color: red;
+    height: 8vh;
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1vw;
+
+    .title{
+        font-weight: 700;
+        font-size: 1.5vw;
+    }
+    .right{
+        display: flex;
+        align-items: center;
+        gap: 0.75vw;
+
+        img{
+            width: 1.5vw;
+            height: 1.5vw;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .username{
+            font-size: 1.25vw;
+        }
+        button{
+            background-color: rgb(255, 255, 255);
+            color: red;
+            padding: 0.2vw 0.3vw;
+            border-radius: 10px;
+            border: none;
+            outline:none;
+        }
+    }
+}
