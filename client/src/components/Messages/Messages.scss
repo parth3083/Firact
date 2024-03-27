@@ -1,7 +1,8 @@
 .messages{
+    padding: 0.5vw 1vw;
     height: calc(100% - 20.05vh);
     // background-color: green;
     background-color: rgb(226, 146, 116);
-
+    overflow-y: scroll;
     width: 100%;
 }
