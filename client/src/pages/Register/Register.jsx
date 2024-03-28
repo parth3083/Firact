@@ -66,7 +66,7 @@ function Register() {
   return (
     <div className="FormContainer">
       <div className="FormWrapper">
-        <span className="logo">Lama Chat</span>
+        <span className="logo">Firact</span>
         <span className="title">Register</span>
         <form onSubmit={handleSubmit}>
           <input required type="text" placeholder="name" />
