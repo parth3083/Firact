@@ -3,10 +3,12 @@
 <br>
 Overview
 <br>
+<br>
 Firact is a chat application built using React.js for the front end and Firebase for both the backend and database. This documentation provides a brief overview of the application's technology stack and the packages used.
 <br>
 <br>
 Technology Stack
+<br>
 <br>
 Frontend: React.js
 <br>
@@ -16,6 +18,7 @@ Database: Firebase Realtime Database
 <br>
 <br>
 Packages Used
+<br>
 <br>
 Firebase (Version 10.9.0)
 <br>
@@ -44,6 +47,7 @@ UUID is a package for generating universally unique identifiers (UUIDs), commonl
 <br>
 Usage
 <br>
+<br>
 To use Firact, follow these steps:
 <br>
 Clone the repository to your local machine.
@@ -56,5 +60,6 @@ Run the application using a development server or build it for production deploy
 <br>
 <br>
 Disclaimer
+<br>
 <br>
 Firact is a desktop application and is not optimized for mobile devices. It is intended for use on desktop computers or laptops.
