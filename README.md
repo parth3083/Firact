@@ -1,6 +1,11 @@
 # Firact Chat App 
 <br>
 <br>
+The website is live at 
+<br>
+https://firact.netlify.app/
+<br>
+<br>
 Overview
 <br>
 <br>
